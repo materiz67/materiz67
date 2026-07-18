@@ -1,6 +1,6 @@
 # yo, jestem materiz67 👋
 
-web dev + minecraft plugin dev
+web dev + minecraft plugin maker
 
 ---
 
@@ -15,7 +15,7 @@ web dev + minecraft plugin dev
 ## 🎯 projekty
 
 ### EasyQuests
-System questów do Minecraft - mój główny projekt
+System questów do Minecraft - Main Open source project
 
 [repo](https://github.com/materiz67/EasyQuests)
 
@@ -23,8 +23,7 @@ System questów do Minecraft - mój główny projekt
 
 ## 📌 połącz się
 
-- **Discord**: maya060644
-
+- **Discord Name**: maya060644
 ---
 
 *made with ❤️*
